@@ -9,24 +9,6 @@
 
 ---
 
-<!-- ================= GLITCH SVG HEADER ================= -->
-
-<p align="center">
-<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .glitch {
-      font: bold 60px monospace;
-      fill: #00f5ff;
-    }
-  </style>
-  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="glitch">
-    ALXZY09
-  </text>
-</svg>
-</p>
-
----
-
 # SYSTEM IDENTITY
 
 ```
