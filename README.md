@@ -8,6 +8,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Penetration+Tester;Blue+Team+In+Progress;Security-First+Engineer;Build.+Break.+Defend." />
 </p>
+
 ---
 
 # whoami
