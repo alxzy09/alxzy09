@@ -91,15 +91,6 @@ Goal: Master detection before advanced offensive specialization.
 
 ---
 
-# GITHUB INTELLIGENCE
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alxzy09&show_icons=true&theme=dark&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxzy09&layout=compact&theme=dark" height="170" />
-</p>
-
----
-
 # ACTIVITY GRAPH
 
 <p align="center">
@@ -115,22 +106,3 @@ Logs Are Evidence
 Attack Knowledge Strengthens Defense
 Automation Reduces Blind Spots
 Documentation Creates Clarity
-
----
-
-<!-- ================= SIGNATURE FOOTER ================= -->
-
-<p align="center">
-<svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .sig {
-      font: italic 28px monospace;
-      fill: #00f5ff;
-    }
-  </style>
-  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="sig">
-    BUILD • BREAK • DEFEND
-  </text>
-</svg>
-</p>
-```
