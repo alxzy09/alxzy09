@@ -1,88 +1,122 @@
+
 <!-- ========================================================= -->
-<!--                ALXZY09 PROFILE README                     -->
-<!--      Hybrid: Hacker + Matrix + Pentester + Blue Team     -->
+<!--                 ALXZY09 CYBER PROFILE                     -->
+<!--        Red Team + Blue Team + Dev Hybrid Portfolio       -->
 <!-- ========================================================= -->
 
-<h1 align="center">AL</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=AL;Full-Stack+Developer;Penetration+Tester;Blue+Team+In+Progress;Build.+Break.+Defend." />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Penetration+Tester;Blue+Team+In+Progress;Security-First+Engineer;Build.+Break.+Defend." />
+  <img src="https://komarev.com/ghpvc/?username=alxzy09&label=PROFILE+VIEWS&color=00FF41&style=flat" />
+  <img src="https://img.shields.io/github/followers/alxzy09?label=Followers&style=flat&color=00FF41" />
 </p>
 
 ---
 
-# whoami
+# SYSTEM STATUS
+
+```
+
+User        : AL
+Mode        : Hybrid (Developer / Red / Blue)
+Experience  : Full-Stack + Security Labs
+Objective   : Security Engineer (Offense + Defense)
+Status      : Active
+
+````
 
 ---
 
-# Core Domains
+```bash
+$ whoami
+al
 
-## Software Engineering
+$ role --current
+Full-Stack Developer
+Penetration Tester
+Transitioning to Blue Team
 
-- Python  
-- Dart  
-- JavaScript  
-- PHP (Laravel)  
-- C  
-- Bash  
+$ mission
+Build secure systems.
+Break insecure systems.
+Defend infrastructure.
+````
 
-Frameworks:
-- Flask  
-- Laravel  
-- React  
-- Flutter  
-- Tailwind CSS  
-
-Concepts:
-- REST API  
-- MVC Architecture  
-- Automation & Scripting  
-- Secure Coding Practices  
+```
+        ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀
+        ⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣿⣿⣿⣷⡄
+        ⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿
+        ⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿
+        ⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⡟
+        ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⠟
+        ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁
+      SYSTEM COMPROMISED? NOT TODAY.
+```
 
 ---
 
-# Offensive Security (Red Team Mindset)
+# TECH STACK
 
-- Web Application Testing  
-- Enumeration & Recon  
-- Exploitation Labs  
-- Privilege Escalation  
-- Responsible Disclosure  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,dart,js,php,c,bash,react,flutter,laravel,flask,docker,git,linux" />
+</p>
+
+---
+
+
+# RED TEAM MODULE
+
+* Web Exploitation
+* Enumeration & Recon
+* Privilege Escalation
+* Lab Walkthrough Documentation
+* Vulnerability Research
 
 Tools:
-- Nmap  
-- Burp Suite  
-- Metasploit  
-- SQLmap  
-- Gobuster  
-- LinPEAS / WinPEAS  
-- Kali Linux  
+
+* Nmap
+* Burp Suite
+* Metasploit
+* SQLmap
+* Gobuster
+* LinPEAS
 
 ---
 
-# Defensive Security (Blue Team Direction)
+# BLUE TEAM MODULE
 
-Currently transitioning into defensive security with focus on:
+Focus Area:
 
-- Log Analysis  
-- Detection Engineering  
-- Incident Response  
-- Threat Hunting  
-- Web Hardening  
-- Secure Configuration  
+* Log Analysis
+* Threat Detection
+* Incident Response
+* Secure Configuration
+* Web Hardening
 
-Learning / Exploring:
-- ELK Stack  
-- SIEM Concepts  
-- Network Monitoring  
-- Basic Digital Forensics  
+Learning:
 
-Attack knowledge improves defense.  
-Defense mindset improves engineering.
+* SIEM Concepts
+* ELK Stack
+* Network Monitoring
+* Basic Forensics
 
 ---
 
-# GitHub Intelligence
+# MINI SOC DASHBOARD
+
+| Component             | Status      |
+| --------------------- | ----------- |
+| Web Security          | Monitoring  |
+| Detection Engineering | Learning    |
+| Incident Response     | Training    |
+| Automation Scripts    | Active      |
+| Secure Coding         | Implemented |
+
+---
+
+# GITHUB ANALYTICS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alxzy09&show_icons=true&theme=default&count_private=true" height="170" />
@@ -91,60 +125,31 @@ Defense mindset improves engineering.
 
 ---
 
-# Activity Graph
+# ACTIVITY GRAPH
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alxzy09&theme=github-compact&hide_border=false" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alxzy09&theme=github-compact" />
 </p>
 
----
-
-# Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,js,php,c,bash,react,flutter,laravel,flask,docker,git,linux" />
-</p>
 
 ---
 
-# Portfolio Highlights
+# SECURITY PHILOSOPHY
 
-- Full-Stack Bug Tracking System  
-- Flutter Attendance Application  
-- Automation Scripts (Python & Bash)  
-- Penetration Testing Lab Walkthroughs  
-- Vulnerability Research Notes  
-
----
-
-# Security Philosophy
-
-Build Secure by Default  
-Test Aggressively  
-Log Everything  
-Monitor Continuously  
-Document Clearly  
+Secure by Design
+Offense Informs Defense
+Logs Are Evidence
+Automation Is Power
+Documentation Is Mandatory
 
 ---
 
-# Long-Term Objective
+# LONG TERM TARGET
 
-Engineer with deep understanding of:
+Become a well-rounded Security Engineer with capability in:
 
-- System Architecture  
-- Offensive Techniques  
-- Defensive Countermeasures  
-- Detection & Response Strategy  
-
-Goal: Become a well-rounded Security Engineer capable of both Red and Blue operations.
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alxzy09&label=Profile+Views&color=00FF41&style=flat" />
-</p>
-
-<p align="center">
-  <strong>Build systems. Break systems. Defend systems.</strong>
-</p>
-
+* Architecture
+* Exploitation
+* Detection
+* Response
+* Engineering
