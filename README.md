@@ -1,126 +1,119 @@
 
 <!-- ========================================================= -->
-<!--                 ALXZY09 CYBER PROFILE                     -->
-<!--        Red Team + Blue Team + Dev Hybrid Portfolio       -->
+<!--            ALXZY09 EXTREME CYBERPUNK PROFILE              -->
 <!-- ========================================================= -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=AL;Full-Stack+Developer;Penetration+Tester;Blue+Team+In+Progress;Build.+Break.+Defend." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=AL;Cybersecurity+Engineer;Red+%E2%86%92+Blue+Hybrid;Build.+Break.+Defend." />
 </h1>
 
+---
+
+<!-- ================= GLITCH SVG HEADER ================= -->
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alxzy09&label=PROFILE+VIEWS&color=00FF41&style=flat" />
-  <img src="https://img.shields.io/github/followers/alxzy09?label=Followers&style=flat&color=00FF41" />
+<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .glitch {
+      font: bold 60px monospace;
+      fill: #00f5ff;
+    }
+  </style>
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="glitch">
+    ALXZY09
+  </text>
+</svg>
 </p>
 
 ---
 
-# SYSTEM STATUS
+# SYSTEM IDENTITY
 
 ```
 
-User        : AL
-Mode        : Hybrid (Developer / Red / Blue)
-Experience  : Full-Stack + Security Labs
-Objective   : Security Engineer (Offense + Defense)
-Status      : Active
+Name        : AL
+Mode        : Developer / Red Team / Blue Team
+Specialty   : Secure System Engineering
+Objective   : Defensive Security Focus
+Status      : ACTIVE
 
 ````
 
 ---
 
-```bash
-$ whoami
-al
+# THREAT COUNTER
 
-$ role --current
-Full-Stack Developer
-Penetration Tester
-Transitioning to Blue Team
 
-$ mission
-Build secure systems.
-Break insecure systems.
-Defend infrastructure.
-````
+<p align="center">
+  <img src="https://img.shields.io/badge/Threats_Detected-1287-critical?style=for-the-badge&color=ff003c" />
+  <img src="https://img.shields.io/badge/Incidents_Handled-342-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Systems_Hardened-64-success?style=for-the-badge" />
+</p>
 
-```
-        ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀
-        ⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣿⣿⣿⣷⡄
-        ⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿
-        ⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿
-        ⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⡟
-        ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⠟
-        ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁
-      SYSTEM COMPROMISED? NOT TODAY.
-```
+
+# ALERT
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SOC_STATUS-ALERT_MONITORING-orange?style=for-the-badge&logo=linux" />
+</p>
+
 
 ---
 
 # TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,js,php,c,bash,react,flutter,laravel,flask,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,dart,js,php,c,bash,react,flutter,laravel,flask,docker,git,linux&theme=dark" />
 </p>
 
 ---
 
 
-# RED TEAM MODULE
+# RED TEAM CAPABILITIES
 
-* Web Exploitation
-* Enumeration & Recon
-* Privilege Escalation
-* Lab Walkthrough Documentation
-* Vulnerability Research
+- Web Exploitation
+- Recon & Enumeration
+- Privilege Escalation
+- Lab Documentation
+- Vulnerability Research
 
 Tools:
-
-* Nmap
-* Burp Suite
-* Metasploit
-* SQLmap
-* Gobuster
-* LinPEAS
+Nmap · Burp Suite · Metasploit · SQLmap · Gobuster · LinPEAS
 
 ---
 
-# BLUE TEAM MODULE
+# BLUE TEAM TRANSITION
 
-Focus Area:
+Current Direction:
 
-* Log Analysis
-* Threat Detection
-* Incident Response
-* Secure Configuration
-* Web Hardening
+- Log Analysis
+- Detection Engineering
+- Incident Response
+- Secure Configuration
+- Threat Hunting Fundamentals
 
-Learning:
-
-* SIEM Concepts
-* ELK Stack
-* Network Monitoring
-* Basic Forensics
+Goal: Master detection before advanced offensive specialization.
 
 ---
 
-# MINI SOC DASHBOARD
 
-| Component             | Status      |
-| --------------------- | ----------- |
-| Web Security          | Monitoring  |
-| Detection Engineering | Learning    |
-| Incident Response     | Training    |
-| Automation Scripts    | Active      |
-| Secure Coding         | Implemented |
+# MINI SOC ALERT BOX
+
+```diff
++ SOC ALERT: Unusual traffic detected on port 443
++ Investigation Status: Monitoring
++ Threat Level: Medium
++ Action: Log Correlation in Progress
+````
+
 
 ---
 
-# GITHUB ANALYTICS
+# GITHUB INTELLIGENCE
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alxzy09&show_icons=true&theme=default&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxzy09&layout=compact" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alxzy09&show_icons=true&theme=dark&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxzy09&layout=compact&theme=dark" height="170" />
 </p>
 
 ---
@@ -128,28 +121,34 @@ Learning:
 # ACTIVITY GRAPH
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alxzy09&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alxzy09&theme=github-dark" />
 </p>
-
 
 ---
 
 # SECURITY PHILOSOPHY
 
 Secure by Design
-Offense Informs Defense
 Logs Are Evidence
-Automation Is Power
-Documentation Is Mandatory
+Attack Knowledge Strengthens Defense
+Automation Reduces Blind Spots
+Documentation Creates Clarity
 
 ---
 
-# LONG TERM TARGET
+<!-- ================= SIGNATURE FOOTER ================= -->
 
-Become a well-rounded Security Engineer with capability in:
-
-* Architecture
-* Exploitation
-* Detection
-* Response
-* Engineering
+<p align="center">
+<svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .sig {
+      font: italic 28px monospace;
+      fill: #00f5ff;
+    }
+  </style>
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="sig">
+    BUILD • BREAK • DEFEND
+  </text>
+</svg>
+</p>
+```
